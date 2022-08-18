@@ -7,9 +7,9 @@
 package example
 
 import (
-	user "github.com/infobloxopen/protoc-gen-gorm/example/user"
-	_ "github.com/infobloxopen/protoc-gen-gorm/options"
-	types "github.com/infobloxopen/protoc-gen-gorm/types"
+	user "github.com/MichaelSkuratovichNS/protoc-gen-gorm/example/user"
+	_ "github.com/MichaelSkuratovichNS/protoc-gen-gorm/options"
+	types "github.com/MichaelSkuratovichNS/protoc-gen-gorm/types"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	emptypb "google.golang.org/protobuf/types/known/emptypb"

@@ -1,4 +1,4 @@
-module github.com/infobloxopen/protoc-gen-gorm
+module github.com/MichaelSkuratovichNS/protoc-gen-gorm
 
 require (
 	github.com/golang/protobuf v1.5.2
